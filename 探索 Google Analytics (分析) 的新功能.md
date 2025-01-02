@@ -30,6 +30,48 @@ Google Analytics (分析) 帳戶
 => Google Analytics (分析) 4 資源  
 
 
+### Manage Account Access and Settings
+
+User roles  
+
+Administrator
+Administrators have full control of the Analytics account. They can manage users (add or delete users, assign any role or data restriction) and grant full permissions to any user, including themselves.
+
+Editor
+Editors have full control of the settings of the account and its properties. But editors can't manage users.
+
+Marketer
+Marketers can create, edit, and delete audiences, conversions, attribution models, events, and lookback windows.
+
+Analyst
+Analysts can create, edit, and delete certain property assets, like explorations. They can also collaborate on shared assets.
+
+Viewer
+Viewers can see settings and data, and they can change the data they see in reports, like adding comparisons or adding a secondary dimension. Viewers can see new reports and collections in the left navigation, but they can't make changes to the navigation.
+
+None
+These users have no role for this account or property, but they may have a role for a related account or property.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

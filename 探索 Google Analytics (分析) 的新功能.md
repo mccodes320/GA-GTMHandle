@@ -52,14 +52,13 @@ Viewers can see settings and data, and they can change the data they see in repo
 None
 These users have no role for this account or property, but they may have a role for a related account or property.
 
+### Google Analytics (分析) 4 資源的特色
 
-
-
-
-
-
-
-
+|  表头   | 通用 Analytics (分析) 資源  | Google Analytics (分析) 4 資源  |
+|  ----  | ----  | ---|
+| 单元格  | 以工作階段為基礎的資料模型|以事件為基礎的資料模型，富有彈性|
+| 報表  | 有限的跨裝置與跨平台報表功能 |完整的跨裝置與跨平台報表功能|
+|自動化|自動化程度有限|全面使用機器學習技術來改善及簡化深入分析資訊的探索作業|
 
 
 

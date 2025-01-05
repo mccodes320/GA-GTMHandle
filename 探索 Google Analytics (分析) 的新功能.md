@@ -84,3 +84,30 @@ Google Analytics (分析) 4 資源不使用這種模型，而是改為使用以�
 
 
 
+
+
+[GA4] 增強的測量事件
+
+https://support.google.com/analytics/answer/9216061
+
+[GA4] 自動收集的事件
+
+https://support.google.com/analytics/answer/9234069
+
+### QA
+Answer this question correctly to mark the lesson complete.
+
+When you create a custom event and start sending new data to Google Analytics, will the data automatically be available in your reports?
+
+### Manage and Filter the Data You Collect
+
+
+
+
+
+
+
+
+
+
+

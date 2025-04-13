@@ -65,6 +65,85 @@ Yes*
 
 ### Get to Know the Predefined Reports
 
+Now that we've examined the overview and detail reports, let's learn about more of the reports that appear by default in the navigation panel.
+By the end of this lesson, you'll be equipped to:  
+
+* Navigate Reports in Google Analytics  
+* Understand the default reports that show in the navigation panel  
+
+報告部分可以讓你知道30分鐘內的用戶資訊, 包含怎麼來的, 從哪個國家. 但可能應為裝置上沒電, 帶機等影響.
+
+* GA有四種類型的參與度報告
+  
+1. Event  
+2. Conversions(已經沒有了)  
+3. Pages and Screens  
+4. Landing page  
+
+![image](https://github.com/user-attachments/assets/573d7f98-ce7a-4a72-9a05-edf4192f89f7)
+
+  
+#### 1. Event
+每個事件倍數發的次數與多少用戶, 透過事件紀錄來觀察用戶體驗, 並提高轉化率.
+ 
+![image](https://github.com/user-attachments/assets/92215fe2-6792-4f63-96a8-048089fab38a)
+
+![image](https://github.com/user-attachments/assets/0b9c113e-a890-4d24-8155-c038af8fa000)
+
+2. Conversions(已經沒有了) 
+
+每個事件的轉化率
+
+3. Pages and Screens  
+
+可以透過標題選擇獲新增其他為杜
+
+下一步就貨幣化你的報告...
+
+每個事件都會對應到一份回饋
+
+![image](https://github.com/user-attachments/assets/a6585034-bf43-4df0-8e95-95914d1726b8)
+
+另一個就是人口統計表
+
+可以知道用戶年齡,位置等
+
+### The Realtime report
+
+Use the Realtime report to monitor activity as it happens. This report displays events that took place within the last 30 minutes.  
+
+The card-based layout is designed to quickly answer important questions about how users are currently interacting with your business. In this report, you can:   
+
+* See whether a one-day promotion is driving traffic to your site or app
+* Monitor the immediate effects on traffic from a blog or social network post or tweet
+* Verify that the tracking code is working on your site or app
+
+### The rest of the default reports
+
+The rest of the default reports follow the same basic format, starting with an overview report and then a few detailed reports. To access these reports, select the links on the left side of the Google Analytics interface. By default, here are the reporting categories will likely appear, along with a brief explanation of the questions they answer:
+
+* Acquisition: Where are your customers coming from?
+* Engagement: What content are your customers engaging with?
+* Monetization: What's your customers' shopping activity?
+* Retention: Are your customers coming back?
+* User Attributes: Who are your customers?
+* Tech: What technology are your customers using?
+
+
+Answer this question correctly to mark the lesson complete.
+Which of the following isn't a report you'd find when visiting Reports in the left navigation of Analytics?
+
+Engagement reports
+Reports snapshot
+* Funnel report
+Correct Response
+
+Realtime report
+
+
+
+
+
 
 
 

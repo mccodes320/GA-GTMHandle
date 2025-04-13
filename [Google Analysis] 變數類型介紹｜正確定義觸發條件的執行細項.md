@@ -133,11 +133,11 @@ The rest of the default reports follow the same basic format, starting with an o
 Answer this question correctly to mark the lesson complete.
 Which of the following isn't a report you'd find when visiting Reports in the left navigation of Analytics?
 
-Engagement reports
-Reports snapshot
-* Funnel report
-Correct Response
-
+Engagement reports  
+Reports snapshot  
+* Funnel report  漏斗報告 
+Correct Response  
+  
 Realtime report
 
 

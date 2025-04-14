@@ -140,6 +140,9 @@ Correct Response
   
 Realtime report
 
+# Google Analytics (分析) 認證
+
+## 開始使用 GA4 
 
 ### [設定網站以收集資料]
 
